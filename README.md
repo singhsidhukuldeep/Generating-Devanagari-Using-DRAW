@@ -10,7 +10,7 @@ Deep Recurrent Attentive Writer (DRAW) is a neural network architecture for imag
 ## Articles
 ### Blog Post: [http://kuldeepsinghsidhu.blogspot.com](http://kuldeepsinghsidhu.blogspot.com)
 
-Articles: 
+Articles: https://kuldeepsinghsidhu.blogspot.com/2019/01/generating-devanagari-using-draw.html
 
 ## Difference
 
